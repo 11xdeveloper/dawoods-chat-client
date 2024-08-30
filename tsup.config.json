@@ -1,0 +1,6 @@
+{
+    "entry": ["src"],
+    "format": "esm",
+    "minify": true,
+    "outDir": "dist"
+}
